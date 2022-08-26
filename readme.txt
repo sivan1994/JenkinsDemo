@@ -1,1 +1,1 @@
-This is a sample file created for Jnkins Demo
+This is a sample file created for Jenkins Demo
